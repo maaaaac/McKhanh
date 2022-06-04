@@ -1,2 +1,7 @@
 images/
-low-resolutions/
+low-resolution/
+images_small/
+input_images/
+image_ulti/
+other/
+test_images/
